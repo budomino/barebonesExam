@@ -2,7 +2,7 @@
 
 **This is just code requested by an exam.** It is basically an example of a working CRUD app.
 
-##Restrictions are as follows:
+## Restrictions are as follows:
 
  - Library to use is only Mysql, EJS, and Express.
 
@@ -10,7 +10,7 @@
 
  - Must be uploaded in Github with iterative commits.
 
-##Miscellaneous details (that are possibly important to reconstruct the app) from the developer of this app as follows:
+## Miscellaneous details (that are possibly important to reconstruct the app) from the developer of this app as follows:
 
  - This was created in Arch Linux, running mysql57 from the AUR
 
@@ -20,7 +20,7 @@
 
  - Most code is borrowed or based on the references below.
 
-##**Sources**
+## **Sources**
 
 
  - https://medium.com/@bhanushali.mahesh3/creating-a-simple-website-with-node-js-express-and-ejs-view-engine-856382a4578f
