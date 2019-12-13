@@ -2,16 +2,18 @@
   "name": "barebones",
   "version": "0.0.0",
   "private": true,
+  "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "ejs": "^2.5.9",
-    "express": "^4.16.4",
-    "http-errors": "~1.6.2",
-    "morgan": "~1.9.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.1.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "http-errors": "~1.7.3",
+    "morgan": "~1.9.1",
     "mysql": "^2.17.1"
-  }
+  },
+  "devDependencies": {}
 }
