@@ -2,6 +2,8 @@
 
 **This is just code requested by an exam.** It is basically an example of a working CRUD app.
 
+
+
 ## Restrictions are as follows:
 
  - Library to use is only Mysql, EJS, and Express.
@@ -16,11 +18,11 @@
 
  - mysqld and other installation files from the package are untouched. Everything is installed in their default locations.
 
- - mysql account is root@localhost with password "1234567890" (no quotes)
+ - Dummy mysql account is root@localhost with password "1234567890" (no quotes)
 
  - IDE is Atom with several packages installed
 
- - Most code is borrowed or based on the references below.
+ - Most code/lines are borrowed or based on the references below.
 
 ## **Sources**
 
@@ -34,3 +36,6 @@
  - https://chartio.com/learn/databases/using-information-schema-views-to-check-to-see-if-table-exists-in-sql-server/
 
  - https://stackoverflow.com/questions/51126022/displaying-mysql-query-results-as-html-with-ejs
+ 
+ 
+ Note: The code remains *unfinished* due to time constraints. Commits will continue over the days if requested.
